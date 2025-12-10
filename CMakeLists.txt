@@ -11,6 +11,6 @@ add_subdirectory(external/matplotplusplus/source)
 add_executable(line line.cpp)
 target_link_libraries(line PRIVATE Matplot++::matplot)
 
-# Executable 2: line
+# Executable 2: histogram
 add_executable(histogram histogram.cpp)
 target_link_libraries(histogram PRIVATE Matplot++::matplot)
