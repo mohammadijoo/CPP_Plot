@@ -359,9 +359,9 @@ As with the line module, you can replicate this pattern for future histogram-rel
 At the end of the workflow, you can watch the full implementation and walkthrough on YouTube.
 
 
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE" target="_blank">
+<a href="https://www.youtube.com/watch?v=0yhuL4291y4" target="_blank">
   <img
-    src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg"
+    src="https://i.ytimg.com/vi/0yhuL4291y4/maxresdefault.jpg"
     alt="C++ Plotting with Matplot++ - Implementation Tutorial"
     style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-top: 0.5rem;"
   />
