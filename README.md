@@ -44,10 +44,6 @@ Current examples:
 - `line.cpp` — multiple line-plot demonstrations (multi-series plots, subplots, tiled layouts, markers, etc.).
 - `histogram.cpp` — various histogram use-cases (different binning algorithms, normalization modes, categorical histograms, overlays, etc.).
 
-The layout is intentionally **modular**, so you can:
-
-- Add new plot types (e.g., pie charts, scatter plots, bar charts) as separate `*.cpp` files.
-- Extend this README by adding new sections using the same structure as the **Line plots** and **Histogram plots** sections.
 
 ---
 
@@ -362,7 +358,6 @@ As with the line module, you can replicate this pattern for future histogram-rel
 
 At the end of the workflow, you can watch the full implementation and walkthrough on YouTube.
 
-> Replace `YOUR_VIDEO_ID_HERE` and the URL below with your actual video link.
 
 <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE" target="_blank">
   <img
